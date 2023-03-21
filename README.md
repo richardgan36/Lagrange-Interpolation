@@ -23,7 +23,7 @@ The time_comparison.py file runs each interpolation function N (default == 5000)
 
 The `plot_lagrange_interpolation` function plots the result of the interpolation.
 
-<img src="assets/screenshots/lagrange_interpolation.jpg", width=50%, height=50%>
+<img src="assets/screenshots/lagrange_interpolation.jpg" width=50% height=50%>
 
 
 
