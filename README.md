@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/richardgan36/Lagrange-Interpolation)
-# Lagrange-Interpolation
+# Lagrange Interpolation
 
 
 ## Introduction
