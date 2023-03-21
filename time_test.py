@@ -1,6 +1,7 @@
 import timeit
 
 
+# Decorator function to calculate the execution time of a function
 def time_test(func):
     def wrapper(*args, **kwargs):
         start_time = timeit.default_timer()
