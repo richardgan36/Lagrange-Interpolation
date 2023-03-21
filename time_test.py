@@ -1,5 +1,4 @@
 import timeit
-import math
 
 
 def time_test(func):
